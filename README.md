@@ -45,11 +45,11 @@ The trained model is evaluated using the test set, yielding an accuracy of 78%. 
 - Confusion Matrix: To visualize the true positive, true negative, false positive, and false negative rates.
 
 ## Technologies Used
-Python: Programming language used for implementation.
-Scikit-learn: For machine learning model building and evaluation.
-Pandas: For data manipulation and preprocessing.
-NumPy: For numerical computations.
-Matplotlib & Seaborn: For data visualization and exploratory data analysis.
+- Python: Programming language used for implementation.
+- Scikit-learn: For machine learning model building and evaluation.
+- Pandas: For data manipulation and preprocessing.
+- NumPy: For numerical computations.
+- Matplotlib & Seaborn: For data visualization and exploratory data analysis.
 
 ## Conclusion
 This project provides a foundational example of using machine learning for medical data classification. The SVM model, trained on diabetes-related medical data, demonstrates an accuracy of 78%, and can be used for future predictions when new medical data is available.
